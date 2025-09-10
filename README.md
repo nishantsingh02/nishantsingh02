@@ -5,7 +5,6 @@
 
 - 🤝 I’m looking for help with **Collaborating on web development projects to enhance my skills and contribute to exciting tech solutions.**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Nishant-Singh-4214](https://www.quora.com/profile/Nishant-Singh-4214)
 
 - Am I open to new projects? **Yes, I am always open to collaborating on new and exciting projects.**
 
