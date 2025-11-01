@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m currently learning **Web Devlopment & web 3**
 
 - 🤝 I’m looking for help with **Collaborating on web development projects to enhance my skills and contribute to exciting tech solutions.**
 
