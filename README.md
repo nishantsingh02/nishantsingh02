@@ -1,7 +1,7 @@
 # Showcase : )
 ### Web3 Projects
-- [Exchange-v1](https://github.com/nishantsingh02/Exchange-v1.git)) - A real time exchange system built using the Backpack API, designed to fetch market data and handle trading interactions efficiently.
-- [Exchange-v2](https://github.com/nishantsingh02/Exchange-v2.git)) - real time exchange system with a custom backend architecture, built using multiple microservices and self developed APIs for handling trading, market data, and order management.
+- [Exchange-v1](https://github.com/nishantsingh02/Exchange-v1.git) - A real time exchange system built using the Backpack API, designed to fetch market data and handle trading interactions efficiently.
+- [Exchange-v2](https://github.com/nishantsingh02/Exchange-v2.git) - real time exchange system with a custom backend architecture, built using multiple microservices and self developed APIs for handling trading, market data, and order management.
 - [Decentralized-exchanges](https://github.com/nishantsingh02/Decentralized-exchanges.git) - A decentralized exchange system that enables token swaps using smart contracts, allowing users to trade assets directly from their wallets without intermediaries.
 
 ### Bots 
