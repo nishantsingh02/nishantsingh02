@@ -10,3 +10,10 @@
 ### Others
 - [openRouter](https://github.com/nishantsingh02/openRouter.git) - An application that integrates OpenRouter to access and switch between multiple AI models through a unified interface.
 - [Terminal UI](https://github.com/nishantsingh02/Terminal-UI.git) - A library for building interactive terminal based user interfaces with components designed for CLI applications.
+
+
+## My Socials
+
+**X** - https://x.com/nishantsingh211  
+**Github** - https://github.com/nishantsingh02
+**Portfolio** - https://nishants.me/
