@@ -14,6 +14,6 @@
 
 ## My Socials
 
-**X** - https://x.com/nishantsingh211  
+**X** - https://x.com/nishantsingh211
 **Github** - https://github.com/nishantsingh02
 **Portfolio** - https://nishants.me/
