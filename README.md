@@ -1,5 +1,7 @@
-<h1 align="center">Kartik Labhshetwar</h1>
+<h1 align="center">Nishant Singh</h1>
+
 # Showcase : )
+
 ### Web3 Projects
 - [Exchange-v1](https://github.com/nishantsingh02/Exchange-v1.git) - A real time exchange system built using the Backpack API, designed to fetch market data and handle trading interactions efficiently.
 - [Exchange-v2](https://github.com/nishantsingh02/Exchange-v2.git) - real time exchange system with a custom backend architecture, built using multiple microservices and self developed APIs for handling trading, market data, and order management.
