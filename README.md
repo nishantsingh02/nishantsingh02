@@ -28,3 +28,5 @@
 
 **X** - https://x.com/nishantsingh211
 **Portfolio** - https://nishants.me/
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantsingh02&label=Visitors&color=181717&style=flat" /> </p>
