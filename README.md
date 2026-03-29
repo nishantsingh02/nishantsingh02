@@ -1,5 +1,3 @@
-<h1 align="center">Nishant Singh</h1>
-
 # Showcase : )
 
 ### Web3 Projects
