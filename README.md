@@ -19,6 +19,11 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
+
 ## My Socials
 
 **X** - https://x.com/nishantsingh211
