@@ -12,6 +12,12 @@
 - [Terminal UI](https://github.com/nishantsingh02/Terminal-UI.git) - A library for building interactive terminal based user interfaces with components designed for CLI applications.
 - [Pocketly](https://github.com/nishantsingh02/Pocketly.git) - A personal expense tracker that helps users record transactions, monitor spending patterns, and manage their finances efficiently.
 
+#### Familiar with
+
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 ## My Socials
 
