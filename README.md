@@ -6,6 +6,7 @@
 - [Decentralized-exchanges](https://github.com/nishantsingh02/Decentralized-exchanges.git) - A decentralized exchange system that enables token swaps using smart contracts, allowing users to trade assets directly from their wallets without intermediaries.
 
 ### Bots 
+- [WakeBot](https://github.com/nishantsingh02/wakebot.git) -  WakeBot keeps your free-tier servers on Render, Railway, and Fly.io awake by automatically pinging them on a schedule no signup, no config, just paste your URL.
 - [Telegram_solana_bot](https://github.com/nishantsingh02/Telegram_solana_bot.git) -  A Telegram bot that interacts with the Solana blockchain, allowing users to perform actions like checking balances, sending transactions, and monitoring wallet activity directly from Telegram.
  
 ### Others
